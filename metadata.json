@@ -1,0 +1,8 @@
+{
+  "name": "Nhà Sáng Chế Nhí - Trò Chơi Khởi Động",
+  "description": "Trò chơi học tập tương tác khởi động 5-7 phút dành cho học sinh tiểu học tìm hiểu về các nhà sáng chế tiêu biểu và phát minh lịch sử.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
